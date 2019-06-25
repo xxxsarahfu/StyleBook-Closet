@@ -3,11 +3,16 @@
 
 It's a closet/fashion stylebook enables users to choose and preview what to wear.
 
+* Part of CSS Based on W3 template.
+* Clothes pictures from the Internet, all rights reserved.
+
+
 ## Usage
 * Simply open .html file and use it on your browser.
 * start-page -> main page.
 * choose your outfit with menu bar on the left side
-* Part of CSS Based on W3 template.
 
-## Demo
-![A quick glance at My Stylebook](https://drive.google.com/file/d/1dNnYM8X0-2ZcTJa8vo9SPFoVKVjOrbFJ/view?usp=sharing)
+
+## A quick glance at My StyleBook
+![Entry Page](Stylebook_start.png)
+![Main Page](Stylebook.png)
